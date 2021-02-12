@@ -9,5 +9,5 @@
 <hr>
 
 <p align="center">
-    <img src="img/img_01.png" />
+    <img src="img/img_02.png" />
 </p>
